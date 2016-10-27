@@ -40,10 +40,10 @@ public class ExamForWhileStars {
 				new RectangleStars().input();
 			else if (Integer.parseInt(selected) == 2)
 				new TriangleStars().input();
-			/*
+			
 			else if (Integer.parseInt(selected) == 3)
 				new IsoscelesTriangleStars().input();
-
+			/*
 			else if (Integer.parseInt(selected) == 4)
 				new DiamondStars().input();
 			*/
