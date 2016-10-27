@@ -19,8 +19,8 @@ public class RectangleStars {
 				System.out.println("숫자만 입력하셔야 합니다.");
 				continue;
 			}
-			for(int i = 1; i < Integer.parseInt(inputNum); i+=2){
-				for(int j = 1; j < Integer.parseInt(inputNum); j++)
+			for(int i = 0; i < Integer.parseInt(inputNum); i+=2){
+				for(int j = 0; j < Integer.parseInt(inputNum); j++)
 					System.out.print("*");
 				System.out.print("\n");
 			}

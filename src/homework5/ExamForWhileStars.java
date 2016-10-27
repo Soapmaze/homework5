@@ -38,9 +38,9 @@ public class ExamForWhileStars {
 			}
 			if (Integer.parseInt(selected) == 1)
 				new RectangleStars().input();
-			/*else if (Integer.parseInt(selected) == 2)
+			else if (Integer.parseInt(selected) == 2)
 				new TriangleStars().input();
-
+			/*
 			else if (Integer.parseInt(selected) == 3)
 				new IsoscelesTriangleStars().input();
 
