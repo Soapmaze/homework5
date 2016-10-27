@@ -43,10 +43,10 @@ public class ExamForWhileStars {
 			
 			else if (Integer.parseInt(selected) == 3)
 				new IsoscelesTriangleStars().input();
-			/*
+			
 			else if (Integer.parseInt(selected) == 4)
 				new DiamondStars().input();
-			*/
+			
 			else if (Integer.parseInt(selected) == 5) {
 				System.out.println("프로그램을 종료합니다.");
 				s.close();
